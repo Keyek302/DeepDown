@@ -1,6 +1,14 @@
 # Deep Down
 
-An idle dungeon crawler for phones. Build a party of six heroes, fight down through five zones and 40 monsters, collect relics and pets, then retire the party for soul shards and go deeper.
+An idle dungeon crawler for phones. Build a party of six heroes, fight down through seven zones and 56 monsters, collect relics and pets, earn feats, then retire the party for soul shards and go deeper.
+
+## What's down there
+
+- **Zones:** Crypt, Fungal Caves, Lava Works, Ice Vault, Dragon's Lair, Sunken Temple (floors 51–60) and The Abyss (floors 61–70). Each has its own room decor, glowing details and drifting particles.
+- **Relics:** 16, including Vampire Tooth, Headsman's Axe, Mirror Shield and Skeleton Key.
+- **Elites:** Armored, Swift, Vampiric, Giant and Ghostly (dodges some hits).
+- **Side rooms:** treasure chests, shrines, merchants and the blood altar.
+- **Feats:** 19 one-time goals in the Souls tab that pay soul shards and survive retirement.
 
 Everything is in `index.html`: no build step, no libraries, and all sound is generated in the browser.
 
